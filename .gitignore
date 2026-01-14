@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Large Data & Logs
+data/
+figures/
+
+# Python specifics
+__pycache__/
+*.pyc
+.python-version
+
+# OS specifics
+.DS_Store
+Thumbs.db
